@@ -30,17 +30,6 @@ button {
   cursor: pointer;
 }
 
-input[type=Submit] {
-  width: 10%;
-  background-color: Purple;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 8px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
 button:hover {
   background-color: Black;
 }
